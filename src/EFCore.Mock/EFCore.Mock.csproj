@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Tom Jerzak</Authors>
+    <PackageLicenseUrl>https://github.com/TomJerzak/efcore-mock/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/TomJerzak/efcore-mock</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/TomJerzak/efcore-mock</RepositoryUrl>
+    <PackageTags>.net core, efcore, mock</PackageTags>
+  </PropertyGroup>
+
+</Project>
